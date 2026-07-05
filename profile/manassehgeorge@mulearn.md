@@ -39,4 +39,6 @@ Career Plan:
 Long-term: I aspire to become a skilled software engineer and technology leader who builds innovative solutions that create real-world impact. μFIFA will help me enhance my technical expertise, collaboration abilities, and professional network.
 
 Profile Card:
+<img width="691" height="343" alt="image" src="https://github.com/user-attachments/assets/84f485ba-b491-41ce-9de9-841d52956103" />
+
 
